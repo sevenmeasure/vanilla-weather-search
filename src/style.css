@@ -67,3 +67,7 @@ li{
 .weather-temperature .active.hover{
     text-decoration: none;
 }
+
+#description::first-letter{
+    text-transform: capitalize;
+}
